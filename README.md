@@ -1,2 +1,3 @@
-# real-time-task-scheduler
-A C++ simulator for exploring and benchmarking real-time CPU scheduling algorithms, with a focus on system design, performance, and software engineering.
+# Real-time-systems-lab
+Design of a platform that verifies whether real-time applications meet their deadlines under real-world conditions, not just in theory.
+ 
